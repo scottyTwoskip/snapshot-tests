@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      alt="User photo"
+      className="card-img-top"
+      src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6d257453-e35e-4846-9f98-ffb5a54aeb09/d7ryrbf-99c341a2-54d0-4a50-b3a4-54bd885b6aa6.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzZkMjU3NDUzLWUzNWUtNDg0Ni05Zjk4LWZmYjVhNTRhZWIwOVwvZDdyeXJiZi05OWMzNDFhMi01NGQwLTRhNTAtYjNhNC01NGJkODg1YjZhYTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KxKTlvqFCjENyTk6FsjGSi9RHDbhaIchSKMG7k_vNVg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        BatMan
+      </div>
+      <p
+        className="card-text"
+      >
+        I fight crime and code way too much.
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Edit 
+      <code>
+        src/App.js
+      </code>
+       and save to reload.
+    </p>
+    <a
+      className="App-link"
+      href="https://reactjs.org"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Learn React
+    </a>
+  </header>
+</div>
+`;
